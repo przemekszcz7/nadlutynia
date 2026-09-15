@@ -1,0 +1,6 @@
+{
+  "name": "Młyn nad Lutynią w Wilkowyi",
+  "description": "Młyn nad Lutynią w Wilkowyi — zabytkowy obiekt z końca XVIII wieku, dziś miejsce wydarzeń i zwiedzania. Sprawdź godziny otwarcia i aktualności.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
